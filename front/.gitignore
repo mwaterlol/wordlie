@@ -1,0 +1,22 @@
+# Logs
+npm-debug.log*
+
+node_modules
+dist
+dist
+*.local
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+.idea
+.pnp.*
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.env
