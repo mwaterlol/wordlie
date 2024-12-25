@@ -14,7 +14,7 @@ export const Header = ({ title, icon }: HeaderProps) => {
                 zIndex: 10,
                 left: 0,
                 top: 0,
-                paddingTop: 120,
+                paddingTop: 110,
             }}
             bg="dark.6"
         >

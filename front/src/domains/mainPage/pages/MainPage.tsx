@@ -26,7 +26,7 @@ export const MainPage = () => {
         { value: 9, total: totalNineWords, guessed: 0 },
     ];
     return (
-        <Stack mb={100} pt={90}>
+        <Stack mb={100} pt={150}>
             <Header
                 title={t("mainPage.components.title")}
                 icon={

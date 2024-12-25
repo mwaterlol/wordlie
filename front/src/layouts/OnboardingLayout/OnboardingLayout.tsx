@@ -30,7 +30,7 @@ export const OnboardingLayout = () => {
     }, [WebApp]);
     return (
         <Stack align="center" h="100%">
-            <Stepper stepsAmmount={4} activeStep={activeStep} mt={50} />
+            <Stepper stepsAmmount={4} activeStep={activeStep} mt={150} />
             <Stack px="md" pb={170}>
                 <Header
                     title={t("rules.components.title")}
