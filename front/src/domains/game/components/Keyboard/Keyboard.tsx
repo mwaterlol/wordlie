@@ -46,7 +46,7 @@ export const Keyboard = ({
             }}
             pt={10}
             px={10}
-            pb={30}
+            pb={50}
             spacing={8}
             bg="dark.9"
             miw="100%"
