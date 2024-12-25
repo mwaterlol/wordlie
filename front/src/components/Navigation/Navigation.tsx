@@ -18,6 +18,7 @@ export const Navigation = () => {
         mainPage: ["/"],
         rules: rulesRoutes.map((route) => route.path),
         statistics: ["/statistics"],
+        settings: ["/settings"],
     };
     const menuItems: {
         label: string;
@@ -46,9 +47,9 @@ export const Navigation = () => {
         },
         {
             label: t("common.menu.settings"),
-            icon: <SettingsIcon activeRoutes={[]} />,
-            to: "/tarot",
-            activeRoutes: [],
+            icon: <SettingsIcon activeRoutes={activeRoutes.settings} />,
+            to: "/settings",
+            activeRoutes: activeRoutes.settings,
         },
     ];
     return (

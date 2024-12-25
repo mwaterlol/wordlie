@@ -78,6 +78,16 @@
       "typeToGuess": "Вводите слова пока не отгадаете загаданное слово, или пока не закончатся попытки"
     }
   },
+  "settings": {
+    "components": {
+      "title": "Настройки"
+    },
+    "root": {
+      "components": {
+        "language": "Язык"
+      }
+    }
+  },
   "statistic": {
     "components": {
       "gamesPlayed": "Игр сыграно",

@@ -74,6 +74,16 @@
       "typeToGuess": ""
     }
   },
+  "settings": {
+    "components": {
+      "title": ""
+    },
+    "root": {
+      "components": {
+        "language": ""
+      }
+    }
+  },
   "statistic": {
     "components": {
       "gamesPlayed": "",
