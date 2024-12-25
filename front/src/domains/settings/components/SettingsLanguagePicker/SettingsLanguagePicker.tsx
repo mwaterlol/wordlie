@@ -65,7 +65,7 @@ export const SettingsLanguagePicker = () => {
                 value={i18n.language}
                 onChange={onChangeLanguage}
                 itemComponent={SelectItem}
-                dropdownPosition="top"
+                dropdownPosition="bottom"
                 sx={{
                     input: { height: 48, color: "white" },
                     "& .mantine-Select-dropdown": {
