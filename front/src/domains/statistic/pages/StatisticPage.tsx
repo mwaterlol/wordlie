@@ -22,7 +22,7 @@ export const StatisticPage = () => {
                 title={t("statistic.components.title")}
                 icon={<BarChart2 size={20} />}
             />
-            <Grid mt={60} columns={2} pb={80}>
+            <Grid mt={90} columns={2} pb={80}>
                 <Grid.Col span={1}>
                     <StatisticCard>
                         <Stack align="center" spacing={8}>

@@ -9,7 +9,13 @@ export const Header = ({ title, icon }: HeaderProps) => {
             justify={"center"}
             align="center"
             py={16}
-            sx={{ position: "fixed", zIndex: 10, left: 0, top: 0 }}
+            sx={{
+                position: "fixed",
+                zIndex: 10,
+                left: 0,
+                top: 0,
+                paddingTop: 40,
+            }}
             bg="dark.6"
         >
             <Flex align="center" gap={4}>
