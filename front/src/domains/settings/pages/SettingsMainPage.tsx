@@ -23,5 +23,5 @@ export const SettingsMainPage = () => {
             />
             <SettingsLanguagePicker />
         </Stack>
-    );ауфеЖ дфтп зшслук
+    );
 };
