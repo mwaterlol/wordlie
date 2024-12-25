@@ -1,0 +1,89 @@
+{
+  "common": {
+    "inputs": {
+      "chooseLocation": "Elegir ubicación"
+    },
+    "menu": {
+      "home": "",
+      "howToPlay": "",
+      "settings": "",
+      "statistic": ""
+    }
+  },
+  "game": {
+    "components": {
+      "guessed": "",
+      "notGuessed": "",
+      "playMore": "",
+      "submit": "",
+      "word": ""
+    }
+  },
+  "loading": {
+    "error": "Parece que ha ocurrido un error. Por favor, reinicia la aplicación",
+    "title": "Astrogems"
+  },
+  "mainPage": {
+    "components": {
+      "arcade": {
+        "description": "",
+        "title": ""
+      },
+      "hard": "",
+      "letters": "",
+      "progress_one": "",
+      "progress_many": "",
+      "progress_other": "",
+      "progressTitle": "",
+      "regular": "",
+      "title": "",
+      "total": "",
+      "wordOfTheDay": {
+        "description": "",
+        "title": ""
+      },
+      "wordsWith_one": "",
+      "wordsWith_many": "",
+      "wordsWith_other": ""
+    }
+  },
+  "rules": {
+    "components": {
+      "defaultValues00": "",
+      "defaultValues01": "",
+      "defaultValues02": "",
+      "defaultValues03": "",
+      "defaultValues04": "",
+      "defaultValues10": "",
+      "defaultValues11": "",
+      "defaultValues12": "",
+      "defaultValues13": "",
+      "defaultValues14": "",
+      "defaultValues20": "",
+      "defaultValues21": "",
+      "defaultValues22": "",
+      "defaultValues23": "",
+      "defaultValues24": "",
+      "inWord": "",
+      "inWordAndPositionCorrect": "",
+      "lettersAndColor": "",
+      "next": "",
+      "notInWord": "",
+      "theMoreYouPlay": "",
+      "title": "",
+      "toStatistics": "",
+      "typeAndSubmit": "",
+      "typeToGuess": ""
+    }
+  },
+  "statistic": {
+    "components": {
+      "gamesPlayed": "",
+      "gamesWon": "",
+      "title": "",
+      "winPercent": "",
+      "wordOfTheDay": "",
+      "wordPerTry": ""
+    }
+  }
+}

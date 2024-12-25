@@ -1,0 +1,87 @@
+{
+  "common": {
+    "inputs": {
+      "chooseLocation": "Choose location"
+    },
+    "menu": {
+      "home": "Home",
+      "howToPlay": "How to play",
+      "settings": "Settings",
+      "statistic": "Statistics"
+    }
+  },
+  "game": {
+    "components": {
+      "guessed": "",
+      "notGuessed": "",
+      "playMore": "",
+      "submit": "Submit",
+      "word": ""
+    }
+  },
+  "loading": {
+    "error": "Seems like error occurred. Restart the app please",
+    "title": "Astrogems"
+  },
+  "mainPage": {
+    "components": {
+      "arcade": {
+        "description": "Unlock all levels, guessing words with increasing difficulty",
+        "title": "ARCADE"
+      },
+      "hard": "Hard",
+      "letters": "LETTERS",
+      "progress_one": "LEVEL: {{count}}",
+      "progress_other": "LEVEL: {{count}}",
+      "progressTitle": "Progress:",
+      "regular": "Regular",
+      "title": "WORDLIE",
+      "total": "Total words guessed: ",
+      "wordOfTheDay": {
+        "description": "Same word for all players",
+        "title": "DAILY PUZZLE"
+      },
+      "wordsWith_one": "100 words with {{count}} letters remain",
+      "wordsWith_other": "100 words with {{count}} letters remain"
+    }
+  },
+  "rules": {
+    "components": {
+      "defaultValues00": "",
+      "defaultValues01": "",
+      "defaultValues02": "",
+      "defaultValues03": "",
+      "defaultValues04": "",
+      "defaultValues10": "",
+      "defaultValues11": "",
+      "defaultValues12": "",
+      "defaultValues13": "",
+      "defaultValues14": "",
+      "defaultValues20": "",
+      "defaultValues21": "",
+      "defaultValues22": "",
+      "defaultValues23": "",
+      "defaultValues24": "",
+      "inWord": "",
+      "inWordAndPositionCorrect": "",
+      "lettersAndColor": "",
+      "next": "",
+      "notInWord": "",
+      "theMoreYouPlay": "",
+      "title": "",
+      "toStatistics": "",
+      "typeAndSubmit": "",
+      "typeToGuess": ""
+    }
+  },
+  "statistic": {
+    "components": {
+      "gamesPlayed": "",
+      "gamesWon": "",
+      "title": "",
+      "winPercent": "",
+      "wordOfTheDay": "",
+      "wordPerTry": ""
+    }
+  }
+}

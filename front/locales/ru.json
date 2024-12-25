@@ -1,0 +1,91 @@
+{
+  "common": {
+    "inputs": {
+      "chooseLocation": "Выберите локацию"
+    },
+    "menu": {
+      "home": "Домой",
+      "howToPlay": "Как играть?",
+      "settings": "Настройки",
+      "statistic": "Статистика"
+    }
+  },
+  "game": {
+    "components": {
+      "guessed": "Вы угадали!",
+      "notGuessed": "Вы не угадали",
+      "playMore": "Играть еще",
+      "submit": "Отправить",
+      "word": "Слово"
+    }
+  },
+  "loading": {
+    "error": "Похоже, произошла ошибка. Пожалуйста, перезапустите приложение",
+    "title": "Astrogems"
+  },
+  "mainPage": {
+    "components": {
+      "arcade": {
+        "description": "Разблокируйте все уровни, отгадывая слова с возрастающей сложностью",
+        "title": "АРКАДА"
+      },
+      "hard": "Сложный",
+      "letters": "БУКВ",
+      "progress_one": "УРОВЕНЬ: {{count}}",
+      "progress_few": "УРОВЕНЬ: {{count}}",
+      "progress_many": "УРОВЕНЬ: {{count}}",
+      "progress_other": "УРОВЕНЬ: {{count}}",
+      "progressTitle": "Прогресс:",
+      "regular": "",
+      "title": "СЛОВАЛИ",
+      "total": "Вcего слов угадано: ",
+      "wordOfTheDay": {
+        "description": "Угадывайте новое слово каждый день",
+        "title": "Слово дня"
+      },
+      "wordsWith_one": "",
+      "wordsWith_few": "",
+      "wordsWith_many": "",
+      "wordsWith_other": ""
+    }
+  },
+  "rules": {
+    "components": {
+      "defaultValues00": "В",
+      "defaultValues01": "О",
+      "defaultValues02": "Р",
+      "defaultValues03": "О",
+      "defaultValues04": "Н",
+      "defaultValues10": "О",
+      "defaultValues11": "К",
+      "defaultValues12": "Е",
+      "defaultValues13": "А",
+      "defaultValues14": "Н",
+      "defaultValues20": "Г",
+      "defaultValues21": "О",
+      "defaultValues22": "Л",
+      "defaultValues23": "О",
+      "defaultValues24": "С",
+      "inWord": "Буква есть в загаданном слове, но на другой позиции",
+      "inWordAndPositionCorrect": "Буква угадана верно",
+      "lettersAndColor": "Буквы на игровом поле будут выделены разным цветом",
+      "next": "Далее",
+      "notInWord": "Такой буквы нет в звгвдвнном слове",
+      "theMoreYouPlay": "Чем меньше попыток вы используете, тем больше коинов получаете",
+      "title": "Как играть?",
+      "toStatistics": "К статистике",
+      "typeAndSubmit": "Введите любое существующее слово и нажмите \"Отправить\"",
+      "typeToGuess": "Вводите слова пока не отгадаете загаданное слово, или пока не закончатся попытки"
+    }
+  },
+  "statistic": {
+    "components": {
+      "gamesPlayed": "Игр сыграно",
+      "gamesWon": "Всего побед",
+      "title": "Статистика",
+      "winPercent": "Процент побед",
+      "wordOfTheDay": "Всего слов дня угадано",
+      "wordPerTry": "Среднее количество попыток на отгадование слова"
+    }
+  }
+}
